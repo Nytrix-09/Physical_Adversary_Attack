@@ -7,6 +7,8 @@ Next the script causes targeted misclassification of your provided traffic sign 
 Lastly the script generates an adversarial attack on the 50 km/hr traffic sign image. Here we include the size of the patch as parameters for optimization to minimize the size of the patch where prompted (meaning optimized for minimizing the dimension of the patch in the traffic sign surface). I modify the patch size to minimize and misclassify the image. 
 
 
-Original Image
+## Original Image
+
+
 ![image](https://github.com/Nytrix-09/Physical_Adversary_Attack/assets/75318042/84717598-54f3-48b9-91de-7f056959e0b2)
 
