@@ -17,12 +17,16 @@ Lastly the script generates an adversarial attack on the 50 km/hr traffic sign i
 ![image](https://github.com/Nytrix-09/Physical_Adversary_Attack/assets/75318042/8f9de4e0-5eed-4e90-8288-e2f0177a18c2)
 
 ## Targeted Misclassifciation 
-To misclasssify the 50 km/hr sign as a Roundabout Mandatory sign 
+To misclasssify the 50 km/hr sign as a Roundabout Mandatory sign
+
+
 ![image](https://github.com/Nytrix-09/Physical_Adversary_Attack/assets/75318042/361d041a-cb87-4398-99c3-05d6d70b415d)
 
 
 ## Patch Minimization
-to modify the patch size and cause missclassification
+To modify the patch size and cause missclassification
+
+
 ![image](https://github.com/Nytrix-09/Physical_Adversary_Attack/assets/75318042/9e180506-2143-4fa6-8aa6-026385d87e0f)
 
 
